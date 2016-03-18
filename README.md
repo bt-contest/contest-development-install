@@ -1,5 +1,5 @@
-# Contest application development installation runner. 
-# Deploy procedure excluded.
+## Contest application development installation runner. 
+#### Deploy procedure excluded.
 
 Usage:
 ```
