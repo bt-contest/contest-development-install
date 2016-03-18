@@ -4,6 +4,7 @@
 Usage:
 ```
 $ wget https://raw.githubusercontent.com/bt-contest/contest-development-install/master/install.sh
+$ sudo chmod +x install.sh
 $ ./install.sh
 ```
 
