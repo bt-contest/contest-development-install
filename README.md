@@ -7,4 +7,4 @@ $ wget https://raw.githubusercontent.com/bt-contest/contest-development-install/
 $ ./install.sh
 ```
 
-Needs [composer](https://getcomposer.org/doc/00-intro.md#globally) globally instaled.
+Needs [composer](https://getcomposer.org/doc/00-intro.md#globally) globally installed.
